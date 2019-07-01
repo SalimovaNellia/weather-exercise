@@ -6,6 +6,8 @@ import {fetchWeatherData} from "../store/weather/actions";
 import SwitchTemperatureUnit from "./SwitchTemperatureUnit";
 import {convertTemperatureList} from "../utils/temperatureConverter";
 import CircularProgress from "@material-ui/core/CircularProgress";
+import { HashRouter } from 'react-router-dom';
+import { BrowserRouter } from 'react-router-dom';
 
 class App extends React.Component {
     componentDidMount() {
