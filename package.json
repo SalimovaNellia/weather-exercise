@@ -8,7 +8,7 @@
     "react-dom": "^16.8.6",
     "react-responsive": "^7.0.0",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "recharts": "^1.6.2",
     "redux-thunk": "^2.3.0",
     "roboto-fontface": "^0.10.0"
